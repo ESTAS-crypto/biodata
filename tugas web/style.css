@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  position: relative;
+}
+
+.nama {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.ig a,
+.FB a,
+.tt a {
+  color: black;
+}
+
+.ig a:hover,
+.FB a:hover,
+.tt a:hover {
+  color: aqua;
+}
